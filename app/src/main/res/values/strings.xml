@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Panel TV</string>
+    <string name="default_url">http://192.168.1.26:8787</string>
+</resources>
